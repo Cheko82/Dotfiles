@@ -188,12 +188,12 @@ focus_follows_mouse no
 for_window [class="^.*"] border pixel 1
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #8fc98f #8fc98f #8fc98f #8fc98f   #8fc98f
-client.unfocused        #8fc98f #8fc98f #8fc98f #8fc98f   #8fc98f
-client.focused_inactive #8fc98f #8fc98f #8fc98f #8fc98f    #8fc98f
-client.unfocused        #8fc98f #8fc98f #8fc98f #8fc98f    #8fc98f
-client.urgent           #8fc98f #8fc98f #8fc98f #8fc98f    #8fc98f
-client.placeholder      #8fc98f #8fc98f #8fc98f #8fc98f    #8fc98f
+client.focused          #84b584 #84b584 #84b584 #84b584   #84b584
+client.unfocused        #84b584 #84b584 #84b584 #84b584   #84b584
+client.focused_inactive #84b584 #84b584 #84b584 #84b584    #84b584
+client.unfocused        #84b584 #84b584 #84b584 #84b584    #84b584
+client.urgent           #84b584 #84b584 #84b584 #84b584    #84b584
+client.placeholder      #84b584 #84b584 #84b584 #84b584    #84b584
 
 exec_always --no-startup-id picom
 gaps inner 10
