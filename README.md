@@ -6,7 +6,7 @@ There are Different Sections in here. Choose the One you like ;)
 ## Lush
 
 <p align="center">
-  <img src="/Lush/image.png" width="500" title="Lush SS">
+  <img src="/Lush/image.png" width="700" title="Lush SS">
 </p>
 
 Based on: **Everforest**<br>
