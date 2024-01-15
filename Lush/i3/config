@@ -202,6 +202,6 @@ exec_always --no-startup-id feh --bg-fill Pictures/Wallpapers/valley.png
 exec_always --no-startup-id ./.config/polybar/launch.sh
 exec_always --no-startup-id ./dog.sh
 
-smart_gaps off
+smart_gaps on
 
 bindsym Print exec "flameshot gui"
