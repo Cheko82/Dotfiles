@@ -5,7 +5,9 @@ There are Different Sections in here. Choose the One you like ;)
 
 ## Lush
 
-![Lush SS]([https://github.com/Mr-Ocelot/Dotfiles/Lush/image.png](https://github.com/Mr-Ocelot/Dotfiles/blob/main/Lush/image.png))
+<p align="center">
+  <img src="/Lush/image.png" width="350" title="Lush SS">
+</p>
 
 Based on: **Everforest**<br>
 A foggy valley wallpaper provided as `valley.png`<br>
