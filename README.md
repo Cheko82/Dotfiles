@@ -8,6 +8,9 @@ There are Different Sections in here. Choose the One you like ;)
 <p align="center">
   <img src="/Lush/image.png" width="700" title="Lush SS">
 </p>
+<p align="center">
+  <img src="/Lush/FirefoxWorkflow.png" width="700" title="Lush FF SS">
+</p>
 
 Based on: **Everforest**<br>
 A foggy valley wallpaper provided as `valley.png`<br>
