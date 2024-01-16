@@ -60,11 +60,8 @@ let g:loaded_airline = 1
 let g:airline_theme='onedark'
 
 " Enables transparent bg 
-" set termguicolors
-" highlight Normal guibg=#07101f
-" autocmd ColorScheme * highlight Normal ctermbg=#07101f
-" autocmd ColorScheme * highlight NonText ctermbg=#07101f
-
+hi NonText ctermbg=none
+hi Normal guibg=NONE ctermbg=NONE
 
 " Rich Presence
 
