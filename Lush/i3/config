@@ -200,7 +200,7 @@ gaps inner 10
 # gaps outer 5
 exec_always --no-startup-id feh --bg-fill Pictures/Wallpapers/valley.png
 exec_always --no-startup-id ./.config/polybar/launch.sh
-exec_always --no-startup-id ./dog.sh
+exec_always --no-startup-id python3 ~/start.py
 
 smart_gaps on
 
